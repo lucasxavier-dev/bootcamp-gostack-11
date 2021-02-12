@@ -5,7 +5,7 @@
 
 <h1>📝 Sobre</h1>
 
-Repositório para organizar Projetos, aplicações, desafios e exercícios Desenvolvidos no **BootCamp GoStack 11 da RocketSeat**. Que consiste em uma imersão no mundo do Full Stack JavaScript. Onde foram desenvolvidas Habilidades na Stack JavaScript com as tecnologias **NodeJS, ReactJS, React-Native** e a inserção do **TypeScript** como plataforma auxiliar de desenvolvimento. 
+Repositório criado para organizar Projetos, aplicações, desafios e exercícios desenvolvidos no **BootCamp GoStack 11 da RocketSeat**. Que consiste em uma imersão no mundo do full stack JavaScript. Onde foram desenvolvidas Habilidades na Stack JavaScript com as tecnologias **NodeJS, ReactJS, React-Native** e a inserção do **TypeScript** como plataforma auxiliar de desenvolvimento. 
 
 <ul>
     <li> <a href="https://github.com/anac-ac/gostack-bootcamp-11/tree/master/challenges/gostack-node-challenge"> Desafio: 02 - Conceitos do Node.js</a>
